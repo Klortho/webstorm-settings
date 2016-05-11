@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="pretty.js" type="JavaScript" />
       <mapping ext="json5" type="JavaScript" />
       <mapping pattern="save" type="PLAIN_TEXT" />
     </extensionMap>
