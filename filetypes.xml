@@ -4,6 +4,7 @@
       <mapping pattern="pretty.js" type="JavaScript" />
       <mapping ext="json5" type="JavaScript" />
       <mapping pattern="save" type="PLAIN_TEXT" />
+      <mapping ext="dic" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
